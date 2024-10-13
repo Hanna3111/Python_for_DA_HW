@@ -1,3 +1,3 @@
-# Task from Module 0.2. Computer literacy
+# HW tasks for Python for DA course.
 
-- тестовий Jupyter notebook
+- 'Test_notebook.ipynb' - Test Jupyter notebook from Module 0.2. Computer literacy 
