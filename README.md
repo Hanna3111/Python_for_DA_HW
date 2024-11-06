@@ -11,3 +11,4 @@
 - `HannaIvanova_hw_1_3_4_while_loop.ipynb` - HW 1.3.4. while loop.
 - `HannaIvanova_2_1_Functions_Basics.ipynb` - HW 2.1. Functions.Basics.
 - `HannaIvanova_2.2. Функції. Продовження.ipynb` - HW 2.2. Functions. Continuation.
+- `HannaIvanova__HW_2_3_Moduls_Exceptions.ipynb` - HW 2.3. Moduls_Exceptions.
