@@ -12,3 +12,5 @@
 - `HannaIvanova_2_1_Functions_Basics.ipynb` - HW 2.1. Functions.Basics.
 - `HannaIvanova_2.2. Функції. Продовження.ipynb` - HW 2.2. Functions. Continuation.
 - `HannaIvanova__HW_2_3_Modules_Exceptions.ipynb` - HW 2.3. Modules_Exceptions.
+- `HannaIvanova_hw_2_4_Classes_.ipynb` - HW 2.4. Classes (fstring).
+- `HannaIvanova_hw_2_4_Classes_with_correction.ipynb` - HW 2.4. Classes (.format())
