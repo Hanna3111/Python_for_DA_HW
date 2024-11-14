@@ -14,3 +14,5 @@
 - `HannaIvanova__HW_2_3_Modules_Exceptions.ipynb` - HW 2.3. Modules_Exceptions.
 - `HannaIvanova_hw_2_4_Classes_.ipynb` - HW 2.4. Classes (fstring).
 - `HannaIvanova_hw_2_4_Classes_with_correction.ipynb` - HW 2.4. Classes (.format())
+- `HannaIvanova_hw_3_1_Pandas_and_NumPy_Basics_.ipynb` - HW 3.1. Pandas and NumPy. Basics.
+  Data set: https://drive.google.com/file/d/1-PR_AxJOobtYWJpsOeIfgL8vV4LtCF_H/view?usp=drive_link
