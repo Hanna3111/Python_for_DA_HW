@@ -17,3 +17,4 @@
 - `HannaIvanova_hw_3_1_Pandas_and_NumPy_Basics_.ipynb` - HW 3.1. Pandas and NumPy. Basics.
   Data set: https://drive.google.com/file/d/1-PR_AxJOobtYWJpsOeIfgL8vV4LtCF_H/view?usp=drive_link
 - `HannaIvanova_hw_3_2_The_basics_of_working_with_data_in_Pandas.ipynb` - HW 3.2. The basics of working with data in Pandas.
+- `HannaIvanova_hw_3_3__Advanced_data_processing_methods_in_Pandas_.ipynb` - HW 3.3. Advanced data processing methods in Pandas.
