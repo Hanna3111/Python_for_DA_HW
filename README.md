@@ -19,3 +19,5 @@
 - `HannaIvanova_hw_3_2_The_basics_of_working_with_data_in_Pandas.ipynb` - HW 3.2. The basics of working with data in Pandas.
 - `HannaIvanova_hw_3_3__Advanced_data_processing_methods_in_Pandas_.ipynb` - HW 3.3. Advanced data processing methods in Pandas.
 - `HannaIvanova_hw_3_4_apply_groupby_pivot_table.ipynb` - HW 3.4. apply, groupby, pivot_table.
+- `HannaIvanova_hw_4_1_Basic_visualizations.ipynb` - HW 4.1. Basic Visualizations.
+- `HannaIvanova_hw 4_2 _Basic visualizations_Continuation.ipynb` - HW 4.2. Basic Visualizations. Continuation.
