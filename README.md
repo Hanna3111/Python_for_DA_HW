@@ -21,3 +21,4 @@
 - `HannaIvanova_hw_3_4_apply_groupby_pivot_table.ipynb` - HW 3.4. apply, groupby, pivot_table.
 - `HannaIvanova_hw_4_1_Basic_visualizations.ipynb` - HW 4.1. Basic Visualizations.
 - `HannaIvanova_hw 4_2 _Basic visualizations_Continuation.ipynb` - HW 4.2. Basic Visualizations. Continuation.
+- `HannaIvanova_hw_4_3_Work_with_DataFrame_Scatterplot.ipynb` - HW 4.3. Work with DataFrame. Scatterplot.
