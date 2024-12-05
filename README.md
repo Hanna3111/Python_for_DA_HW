@@ -22,3 +22,4 @@
 - `HannaIvanova_hw_4_1_Basic_visualizations.ipynb` - HW 4.1. Basic Visualizations.
 - `HannaIvanova_hw 4_2 _Basic visualizations_Continuation.ipynb` - HW 4.2. Basic Visualizations. Continuation.
 - `HannaIvanova_hw_4_3_Work_with_DataFrame_Scatterplot.ipynb` - HW 4.3. Work with DataFrame. Scatterplot.
+- `HannaIvanova_hw_4_4_Visualization_in_Pandas.ipynb` - HW 4.4. Visualization in Pandas.
