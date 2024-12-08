@@ -24,3 +24,4 @@
 - `HannaIvanova_hw_4_3_Work_with_DataFrame_Scatterplot.ipynb` - HW 4.3. Work with DataFrame. Scatterplot.
 - `HannaIvanova_hw_4_4_Visualization_in_Pandas.ipynb` - HW 4.4. Visualization in Pandas.
 - `HannaIvanova_hw_4_5_Seaborn_vizualization.ipynb` - HW 4.5. Seaborn vizualization.
+- `Creative_analytical_task.ipynb` - HW 4. Creative_analytical_task. 
